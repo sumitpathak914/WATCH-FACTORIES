@@ -1,0 +1,49 @@
+.navtext{
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+}
+.textsection{
+    background-color: black;
+}
+
+.icons{
+    padding: 5px;
+    float: right;
+}
+
+.homepage{
+    background-image: url(./images/backgroundimage.jpg);
+}
+.ruppes{
+    color: red;
+}
+.Women{
+    height: 60px;
+}
+footer{
+    background-color: black;
+    margin-top: 40px;
+    height: 100px;
+}
+.footertext{
+    color: white;
+    text-align: center;
+   
+}
+.nav-link:hover{
+      background-color: gray;
+      border: 1px solid white;
+      color: black;
+      border-radius: 30px;
+}
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.icons:hover{
+    size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    color: black;
+
+}
